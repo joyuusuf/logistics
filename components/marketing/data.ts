@@ -120,5 +120,5 @@ export const STATS = [
   { value: "120k+", label: "Deliveries made" },
   { value: "98.4%", label: "On-time rate" },
   { value: "2,300+", label: "Verified riders" },
-  { value: "37", label: "States covered" },
+  { value: "36", label: "States covered" },
 ];
